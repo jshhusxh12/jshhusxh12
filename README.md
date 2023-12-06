@@ -1,6 +1,6 @@
 <h1 align="center">Hi Guys!👋, I'm Godkong</h1>
 <h3 align="center">I am a student and developer studying in Korea.</h3>
-<img alt="Coding" width="100%" height="200px" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
+<img alt="Coding" width="100%" height="600px" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
 
 - 🎉 I'm working on the development of the related sales chain of the Summer Beach server. [[ Fivem_KR Summer_Beach ]](https://discord.gg/setm)
