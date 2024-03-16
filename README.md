@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi Guys!👋, I'm Godkong</h1>
 <h3 align="center">I am a student and developer studying in Korea.</h3>
 
@@ -8,7 +7,7 @@
 
 - 👨‍💻 My portfolio [https://krgodkong.kr](https://krgodkong.kr)
 
-- 📫 How to reach me **kaijjkjkshjkshjkhjkh@naver.com**
+- 📫 How to reach me **jshhusxh12@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jshhusxh12&show_icons=true&locale=en&layout=compact" alt="jshhusxh12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jshhusxh12&show_icons=true&locale=en" alt="jshhusxh12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jshhusxh12&" alt="jshhusxh12" /></p>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
