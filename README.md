@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 My portfolio [https://krgodkong.kr](https://krgodkong.kr)
+- 👨‍💻 My portfolio [웹사이트](godkondev.pages.dev)
 
 - 📫 How to reach me **jshhusxh12@naver.com**
 
