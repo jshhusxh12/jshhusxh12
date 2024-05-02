@@ -139,8 +139,6 @@
 
 <div align="center">🎼 Recently Listen Music</div>
 
-<div algin="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kw3k7nv272mswpoctcgi5ezfa&unique={true|1|on|yes})
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kw3k7nv272mswpoctcgi5ezfa&unique={true|1|on|yes})
 
 ###
