@@ -124,11 +124,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-  <a href="insurnult15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -137,8 +133,10 @@
 
 ###
 
-## 🎼 Recently Listen Music ##
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kw3k7nv272mswpoctcgi5ezfa&unique={true|1|on|yes})
+<div align="center">
+  <a href="https://open.spotify.com/user/Godkong">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Godkong&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
