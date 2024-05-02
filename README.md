@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<h2 align="left">🛠 Use Language / Framework</h2>
+<h2 align="left">🛠 Use Language / Framework / Libraries</h2>
 
 ###
 
@@ -59,6 +59,14 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="30" alt="amazondynamodb logo"  />
 </div>
 
 ###
@@ -127,6 +135,12 @@
 
 <img src="https://raw.githubusercontent.com/jshhusxh12/jshhusxh12/output/snake.svg" alt="Snake animation" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316kw3k7nv272mswpoctcgi5ezfa&unique={true|1|on|yes})
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Godkong">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Godkong&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
