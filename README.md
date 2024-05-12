@@ -133,16 +133,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jshhusxh12/jshhusxh12/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Godkong">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Godkong&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 2024년 2월 26일 부로 활동안합니다.
 ###
