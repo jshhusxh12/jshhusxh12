@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jshhusxh12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jshhusxh12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -117,6 +117,8 @@
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
 </div>
 
 ###
